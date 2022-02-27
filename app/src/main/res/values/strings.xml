@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AppBeber</string>
+    <string name="dialog_1">Redefinir dados</string>
+    <string name="dialog_2">Dejesa resetar todos os dados?</string>
+    <string name="time">Hora de beber água</string>
+</resources>
